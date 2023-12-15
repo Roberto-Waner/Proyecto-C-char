@@ -1,0 +1,15 @@
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\bin\Debug\net6.0\EjerArregloC#.exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\bin\Debug\net6.0\EjerArregloC#.deps.json
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\bin\Debug\net6.0\EjerArregloC#.runtimeconfig.json
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\bin\Debug\net6.0\EjerArregloC#.dll
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\bin\Debug\net6.0\EjerArregloC#.pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\obj\Debug\net6.0\EjerArregloC#.csproj.AssemblyReference.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\obj\Debug\net6.0\EjerArregloC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\obj\Debug\net6.0\EjerArregloC#.AssemblyInfoInputs.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\obj\Debug\net6.0\EjerArregloC#.AssemblyInfo.cs
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\obj\Debug\net6.0\EjerArregloC#.csproj.CoreCompileInputs.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\obj\Debug\net6.0\EjerArregloC#.dll
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\obj\Debug\net6.0\refint\EjerArregloC#.dll
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\obj\Debug\net6.0\EjerArregloC#.pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\obj\Debug\net6.0\EjerArregloC#.genruntimeconfig.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\EjerArregloC#\obj\Debug\net6.0\ref\EjerArregloC#.dll
