@@ -1,0 +1,37 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejer4C_
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] nota_alumnos = new int[4];
+            int nota_media = 0;
+
+            Console.WriteLine("Programa que calcula la nota media de 4 alumnos");
+
+            for (int i = 0; i < nota_alumnos.Length; i++)
+            {
+                Console.WriteLine("\nIngrese la nota del Alumno # {0}: ", i + 1);
+                nota_alumnos[i] = int.Parse(Console.ReadLine());
+            }
+
+            // Sumar las notas y calcular la media
+            for (int i = 0; i < nota_alumnos.Length; i++)
+            {
+                nota_media += nota_alumnos[i];
+            }
+            nota_media /= nota_alumnos.Length;
+
+            // Mostrar la nota media en la salida
+            Console.WriteLine("\nLa nota media de los 4 alumnos es: {0} ", nota_media);
+
+            Console.ReadKey();
+        }
+    }
+}

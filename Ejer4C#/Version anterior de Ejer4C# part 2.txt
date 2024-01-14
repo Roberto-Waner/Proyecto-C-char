@@ -1,0 +1,57 @@
+using System;
+
+namespace Ejer4C_
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] alumnos = new int[4];
+            int[] nota = new int[3];
+            int nota_final = 0;
+            double promedio = 0;
+            double nota_media = 0;
+            string opcion = "";
+
+            do
+            {
+                Console.WriteLine("Programa que calcula la nota media de 4 alumnos");
+
+                for (int i = 0; i < alumnos.Length; i++)
+                {
+                    Console.WriteLine($"\n---------------------------------------------------\n");
+                    Console.WriteLine("Ingrese las notas del Alumno #{0}: ", i + 1);
+                    Console.WriteLine($"*********************************\n");
+
+                    for (int j = 0; j < nota.Length; j++)
+                    {
+                        Console.Write($"Ingresa la {j + 1}ra nota de la asignatura del alumno: ");
+                        nota[j] = int.Parse(Console.ReadLine());
+                        nota_final += nota[j];// Sumar las notas
+                    }
+
+                    promedio = (double)nota_final / nota.Length;
+                    Console.Write($"Su nota final es :{promedio}");
+                    nota_final = 0;
+
+                    // Sumar la nota media de cada estudiante al total
+                    nota_media += promedio;
+                }
+
+                Console.WriteLine($"\n---------------------------------------------------\n");
+
+                // Calcular la nota media de todos los estudiantes
+                nota_media = nota_media / (alumnos.Length * nota.Length);
+
+                // Mostrar la nota media en la salida
+                Console.WriteLine("La nota media de los 4 alumnos es: {0} ", nota_media);
+                nota_media = 0;
+
+                Console.WriteLine("Desea realizar otra calcular o finalizar (si/no)?");
+                opcion = Console.ReadLine().ToLower();
+            } while (opcion == "si");
+
+            Console.ReadKey();
+        }
+    }
+}
