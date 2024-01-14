@@ -1,0 +1,7 @@
+D:\Proyecto\C#\ProyectoC#\MenuC#\MenuC#\bin\Debug\MenuC#.exe.config
+D:\Proyecto\C#\ProyectoC#\MenuC#\MenuC#\bin\Debug\MenuC#.exe
+D:\Proyecto\C#\ProyectoC#\MenuC#\MenuC#\bin\Debug\MenuC#.pdb
+D:\Proyecto\C#\ProyectoC#\MenuC#\MenuC#\obj\Debug\MenuC#.csproj.AssemblyReference.cache
+D:\Proyecto\C#\ProyectoC#\MenuC#\MenuC#\obj\Debug\MenuC#.csproj.CoreCompileInputs.cache
+D:\Proyecto\C#\ProyectoC#\MenuC#\MenuC#\obj\Debug\MenuC#.exe
+D:\Proyecto\C#\ProyectoC#\MenuC#\MenuC#\obj\Debug\MenuC#.pdb

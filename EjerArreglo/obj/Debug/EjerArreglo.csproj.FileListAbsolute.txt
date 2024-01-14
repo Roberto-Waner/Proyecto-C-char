@@ -1,0 +1,14 @@
+D:\Proyecto\C#\EjercicioArreglo\EjerArreglo\obj\Debug\EjerArreglo.csproj.AssemblyReference.cache
+D:\Proyecto\C#\EjercicioArreglo\EjerArreglo\obj\Debug\EjerArreglo.csproj.CoreCompileInputs.cache
+D:\Proyecto\C#\EjercicioArreglo\EjerArreglo\bin\Debug\EjerArreglo.exe.config
+D:\Proyecto\C#\EjercicioArreglo\EjerArreglo\bin\Debug\EjerArreglo.exe
+D:\Proyecto\C#\EjercicioArreglo\EjerArreglo\bin\Debug\EjerArreglo.pdb
+D:\Proyecto\C#\EjercicioArreglo\EjerArreglo\obj\Debug\EjerArreglo.exe
+D:\Proyecto\C#\EjercicioArreglo\EjerArreglo\obj\Debug\EjerArreglo.pdb
+D:\Proyecto\C#\ProyectoC#\EjerArreglo\bin\Debug\EjerArreglo.exe.config
+D:\Proyecto\C#\ProyectoC#\EjerArreglo\bin\Debug\EjerArreglo.exe
+D:\Proyecto\C#\ProyectoC#\EjerArreglo\bin\Debug\EjerArreglo.pdb
+D:\Proyecto\C#\ProyectoC#\EjerArreglo\obj\Debug\EjerArreglo.csproj.AssemblyReference.cache
+D:\Proyecto\C#\ProyectoC#\EjerArreglo\obj\Debug\EjerArreglo.csproj.CoreCompileInputs.cache
+D:\Proyecto\C#\ProyectoC#\EjerArreglo\obj\Debug\EjerArreglo.exe
+D:\Proyecto\C#\ProyectoC#\EjerArreglo\obj\Debug\EjerArreglo.pdb
