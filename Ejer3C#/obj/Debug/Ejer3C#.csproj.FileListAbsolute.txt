@@ -1,0 +1,7 @@
+D:\Proyecto\C#\ProyectoC#\Ejer3C#\bin\Debug\Ejer3C#.exe.config
+D:\Proyecto\C#\ProyectoC#\Ejer3C#\bin\Debug\Ejer3C#.exe
+D:\Proyecto\C#\ProyectoC#\Ejer3C#\bin\Debug\Ejer3C#.pdb
+D:\Proyecto\C#\ProyectoC#\Ejer3C#\obj\Debug\Ejer3C#.csproj.AssemblyReference.cache
+D:\Proyecto\C#\ProyectoC#\Ejer3C#\obj\Debug\Ejer3C#.csproj.CoreCompileInputs.cache
+D:\Proyecto\C#\ProyectoC#\Ejer3C#\obj\Debug\Ejer3C#.exe
+D:\Proyecto\C#\ProyectoC#\Ejer3C#\obj\Debug\Ejer3C#.pdb
