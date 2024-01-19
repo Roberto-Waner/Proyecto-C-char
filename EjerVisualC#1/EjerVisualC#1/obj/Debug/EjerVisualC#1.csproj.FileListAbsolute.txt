@@ -1,0 +1,11 @@
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\ProyectoC#-objeto\EjerVisualC#1\EjerVisualC#1\bin\Debug\EjerVisualC#1.exe.config
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\ProyectoC#-objeto\EjerVisualC#1\EjerVisualC#1\bin\Debug\EjerVisualC#1.exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\ProyectoC#-objeto\EjerVisualC#1\EjerVisualC#1\bin\Debug\EjerVisualC#1.pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\ProyectoC#-objeto\EjerVisualC#1\EjerVisualC#1\obj\Debug\EjerVisualC#1.csproj.AssemblyReference.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\ProyectoC#-objeto\EjerVisualC#1\EjerVisualC#1\obj\Debug\EjerVisualC#1.csproj.SuggestedBindingRedirects.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\ProyectoC#-objeto\EjerVisualC#1\EjerVisualC#1\obj\Debug\EjerVisualC_1.Form1.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\ProyectoC#-objeto\EjerVisualC#1\EjerVisualC#1\obj\Debug\EjerVisualC_1.Properties.Resources.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\ProyectoC#-objeto\EjerVisualC#1\EjerVisualC#1\obj\Debug\EjerVisualC#1.csproj.GenerateResource.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\ProyectoC#-objeto\EjerVisualC#1\EjerVisualC#1\obj\Debug\EjerVisualC#1.csproj.CoreCompileInputs.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\ProyectoC#-objeto\EjerVisualC#1\EjerVisualC#1\obj\Debug\EjerVisualC#1.exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\ProyectoC#-objeto\EjerVisualC#1\EjerVisualC#1\obj\Debug\EjerVisualC#1.pdb
